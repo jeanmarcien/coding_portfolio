@@ -1,1 +1,7 @@
-# python_portfolio
+# Data Analyst
+
+### Education
+Maths, Bachelor
+
+### Work Experience
+Actuarial Analyst
