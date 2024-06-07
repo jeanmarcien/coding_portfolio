@@ -8,5 +8,5 @@ The Life Insurance Data Cleaning Project aims to clean and standardize a messy d
 
 [Code and Descriptions](https://github.com/jeanmarcien/cleanlife/tree/main)
 
-### Project 2:
+## <u>Project 2<u>
 
