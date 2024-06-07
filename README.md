@@ -1,4 +1,4 @@
-# Programming Projects
+# GITHUB Projects
 
 ## <u>Project 1</u>
 ### CleanLife: A Data Cleaning Project for Life Insurance Policies
