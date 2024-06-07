@@ -23,3 +23,11 @@ This project involves developing a secure and user-friendly password manager usi
 <u>Programming Language Used</u>: Bash Scripting
 
 [Code and Descriptions](https://github.com/jeanmarcien/password_manager)
+
+## <u>Project 4</u>
+### System Monitoring Tool: Comprehensive Resource Usage Monitoring Project
+This project involves creating a Bash script-based system monitoring tool that provides real-time information on CPU usage, memory usage, and disk space usage. The tool features an interactive menu, allowing users to select and view individual metrics or all metrics simultaneously. It ensures efficient monitoring and management of system resources through a user-friendly interface, making it an essential tool for maintaining system performance and health.
+
+<u>Programming Language Used</u>: Bash Scripting
+
+[Code and Descriptions](https://github.com/jeanmarcien/computer_monitoring_tool)
