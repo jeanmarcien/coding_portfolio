@@ -15,3 +15,11 @@ The project involves retrieving Premier League data from an API and storing it i
 <u>Programming Language Used</u>: Python, SQL
 
 [Code and Descriptions](https://github.com/jeanmarcien/premier_league_table_season_2022-2023)
+
+## <u>Project 3</u>
+### Password Manager: Secure Password Management and Encryption Project
+This project involves developing a secure and user-friendly password manager using a Bash script. It includes functionalities for adding, retrieving, updating, and deleting passwords, with a focus on security and ease of use. The script evaluates password strength based on specific criteria, encrypts and decrypts the password file using gpg, and offers an option for generating secure random passwords. Additionally, it integrates with the clipboard for convenient password management and features an interactive menu-driven interface for a seamless user experience.
+
+<u>Programming Language Used</u>: Bash Scripting
+
+[Code and Descriptions](https://github.com/jeanmarcien/password_manager)
