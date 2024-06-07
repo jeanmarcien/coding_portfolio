@@ -1,5 +1,5 @@
 title: Jean-Marcien C Kablansi
 #logo: /assets/img/heads
 #description: text below image
-#show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
