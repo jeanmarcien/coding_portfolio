@@ -9,7 +9,7 @@ The Life Insurance Data Cleaning Project aims to clean and standardize a messy d
 [Code and Descriptions](https://github.com/jeanmarcien/cleanlife/tree/main)
 
 ## <u>Project 2</u>
-### Premier League: Data Retrieval and Storage Project
+### English Soccer Premier League: Data Retrieval and Storage Project
 The project involves retrieving Premier League data from an API and storing it in an SQLite database. The script starts by sending a GET request to the API using specific headers that include an API key. Upon successful retrieval of the data, it proceeds to set up a local SQLite database. Within the database, it creates two tables: "teams" and "stats". The "teams" table stores information about each team, such as their name, logo, and abbreviation, while the "stats" table holds various statistics including wins, losses, ties, games played, goals for, goals against, points, rank, and goal difference. The data is extracted from the API response and inserted into the respective tables. Finally, the changes are committed, and the database connection is closed. If the API request fails, an error message with the status code is printed.
 
 <u>Programming Language Used</u>: Python, SQL
