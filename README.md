@@ -6,7 +6,7 @@ The Life Insurance Data Cleaning Project aims to clean and standardize a messy d
 
 <u>Programming Language Used</u>: Python
 
-[Code and Descriptions](https://github.com/jeanmarcien/cleanlife/tree/main)
+[Source Code and Descriptions](https://github.com/jeanmarcien/cleanlife/tree/main)
 
 ## <u>Project 2</u>
 ### English Soccer Premier League: Data Retrieval and Storage Project
@@ -14,7 +14,7 @@ The project involves retrieving Premier League data from an API and storing it i
 
 <u>Programming Language Used</u>: Python, SQL
 
-[Code and Descriptions](https://github.com/jeanmarcien/premier_league_table_season_2022-2023)
+[Source Code and Descriptions](https://github.com/jeanmarcien/premier_league_table_season_2022-2023)
 
 ## <u>Project 3</u>
 ### Password Manager: Secure Password Management and Encryption Project
@@ -22,7 +22,7 @@ This project involves developing a secure and user-friendly password manager usi
 
 <u>Programming Language Used</u>: Bash Scripting
 
-[Code and Descriptions](https://github.com/jeanmarcien/password_manager)
+[Source Code and Descriptions](https://github.com/jeanmarcien/password_manager)
 
 ## <u>Project 4</u>
 ### System Monitoring Tool: Comprehensive Resource Usage Monitoring Project
@@ -30,4 +30,4 @@ This project involves creating a Bash script-based system monitoring tool that p
 
 <u>Programming Language Used</u>: Bash Scripting
 
-[Code and Descriptions](https://github.com/jeanmarcien/computer_monitoring_tool)
+[Source Code and Descriptions](https://github.com/jeanmarcien/computer_monitoring_tool)
