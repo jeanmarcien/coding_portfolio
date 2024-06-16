@@ -1,7 +1,7 @@
 # GITHUB Projects
 
 ## <u>Project 1</u>
-### CleanLife: A Data Cleaning Project for Life Insurance Policies
+### Titanic: A Data Visualization Project with R
 This project involves visualizing the Titanic dataset using R and RMarkdown to perform exploratory data analysis and generate various plots. The visualizations include a count plot to show the number of survivors, a bar plot to illustrate the survival rate by passenger class, a violin plot to display age distribution by survival status, a correlation heatmap to reveal relationships between numerical features, and a facet grid to analyze survival rates by age and sex. These visualizations provide insights into the Titanic dataset, demonstrating the use of R for data analysis and visualization.
 
 <u>Programming Language Used</u>: R, RMarkdown
